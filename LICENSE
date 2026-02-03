@@ -1,0 +1,39 @@
+# System-079 Project License (SPL)
+Copyright (c) 2025 Captain Bear (CaptainBear079 on GitHub)
+
+This license applies ONLY to the contents of the `System-079` repository and to any
+files distributed together with it by the repository owner(s). This is a project‑specific
+license created for `System-079` and does not grant permissions beyond this project.
+
+1. Source availability and attribution
+- When you distribute this software (original or modified), you must make the complete
+	corresponding source code available under the same terms.
+- You must retain the existing author credits and add a clear notice file of
+	what you changed in the modified files, including the name of contributors.
+
+2. Redistribution and use
+- You may copy, distribute and modify the software for non-commercial purposes without
+	prior permission, provided you comply with Section 1 (source availability and attribution).
+- Commercial use, sale, or sublicensing of the software (or works based on it) requires
+	prior written permission from the copyright holders (contact: `https://github.com/CaptainBear079`).
+
+3. Prohibited uses
+- You may not use this software to engage in illegal activity, to create malware, or to
+	materially harm people, property, or privacy. If such prohibited use is discovered, the
+	license may be revoked for the offending parties.
+
+4. No endorsement / Respect
+- You must not imply endorsement by the original authors when distributing modified versions.
+
+5. Disclaimer of warranty and liability
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES
+OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+6. License file
+- This `LICENSE` file must be included with all copies or substantial portions of the
+	software. Do not remove or alter this license file when redistributing the project.
+
+If you want a different license for other uses (for example a permissive or a
+commercial license), contact the copyright holders at `https://github.com/CaptainBear079`.
