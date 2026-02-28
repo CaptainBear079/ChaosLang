@@ -3,8 +3,7 @@
 ## Supported Versions
 | Version            | Supported          |
 | ------------------ | ------------------ |
-| v1.7.1-pre-aplha   | :white_check_mark: |
-| < v1.7.1-pre-alpha | :x:                |
+| v1.4.3             | :white_check_mark: |
 
 ## Reporting a Vulnerability
 
