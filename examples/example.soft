@@ -1,0 +1,21 @@
+// Example single-file executable
+ADD_EXECUTABLE("example.chaos", "example")
+
+// Example multi-file executable
+ADD_EXECUTABLE({"example2.chaos", "example3.chaos"}, "example2")
+
+// Example custom output format
+ADD_EXECUTABLE("example4.chaos", {"example3", linux="", windows=".exe"})
+
+
+// Example static single-file library
+ADD_STATIC_LIBRARY("exampleSLib.chaos", "exampleSLib")
+
+// Example static multi-file library
+ADD_STATIC_LIBRARY({"exampleSLib2.chaos", "exampleSLib3.chaos"}, "exampleSLib2")
+
+// Example dynamic single-file library
+ADD_DYNAMIC_LIBRARY("exampleDLib.chaos", "exampleDLib")
+
+// Example dynamic multi-file library
+ADD_DYNAMIC_LIBRARY({"exampleDLib2.chaos", "exampleDLib3.chaos"}, "exampleDLib2")
